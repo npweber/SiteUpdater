@@ -1,0 +1,13 @@
+
+<div>
+<br>
+
+%Date%
+<hr>
+<span id="contentHeader">
+%Title%
+</span>
+<p>
+%Content%
+</p>
+</div>
